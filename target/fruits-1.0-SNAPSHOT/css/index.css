@@ -1,0 +1,70 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    position: relative;
+    float: left;
+}
+
+#div_container {
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    float: left;
+}
+
+#div_fruit_list {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a,a:visited{
+    color:black;
+}
+
+tr{
+    background: #F8F8F8;
+}
+
+#top-title{
+    text-align: center;
+    font-size: 30px;
+}
+
+#add_info {
+    width: 100%;
+    margin-left: 60%;
+    margin-bottom: 10px;
+}
+
+#t_fruit {
+    width: 60%;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-left: 20%;
+}
+
+#t_fruit,
+#t_fruit tr,
+#t_fruit td,
+#t_fruit th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.w25 {
+    width: 25%;
+}
