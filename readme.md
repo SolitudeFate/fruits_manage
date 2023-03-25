@@ -1,3 +1,6 @@
+# fruits_manage
+fruits_manage_system
+
 + 依赖：放在了WEB-INF下的lib文件夹中
   + 8个thymeleaf的jar包
   + 1个mysql的驱动
